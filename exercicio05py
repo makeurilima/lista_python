@@ -1,0 +1,6 @@
+# Exercício 5: Exibir os tipos das variáveis
+# A função type() retorna o tipo de um objeto (neste caso, de uma variável).
+print(f"O tipo da variável 'ano_atual' é: {type(ano_atual)}")
+print(f"O tipo da variável 'valor_pi' é: {type(valor_pi)}")
+
+print("-" * 20)
