@@ -11,3 +11,5 @@ media = (nota1 + nota2 + nota3) / 3
 print(f"A média das notas {nota1}, {nota2} e {nota3} é {media:.2f}.")
 
 print("-" * 20)
+
+
