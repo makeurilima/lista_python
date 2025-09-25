@@ -1,0 +1,1 @@
+# Crie uma função que receba um número e retorne seu valor absoluto. Utilize a função abs().
